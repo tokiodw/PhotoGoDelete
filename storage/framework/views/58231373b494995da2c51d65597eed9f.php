@@ -1,0 +1,1 @@
+<?php /**PATH /var/www/laravel-project/resources/views/components/login.blade.php ENDPATH**/ ?>

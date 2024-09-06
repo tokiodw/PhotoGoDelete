@@ -1,0 +1,1 @@
+<img src="<?php echo e(Vite::asset('resources/images/logo.png')); ?>" /><?php /**PATH /var/www/laravel-project/resources/views/components/application-logo.blade.php ENDPATH**/ ?>
